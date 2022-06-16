@@ -17,6 +17,7 @@
 <!-- Trpophies -->
 
 ## Trophies
+![https://github.com/devumairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=devumairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
 
 <a href="[http://www.github.com/hicodersofficial](https://github.com/devumairazmat?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=devumairazmat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
