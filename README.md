@@ -36,7 +36,7 @@
 <!-- Tools And Techs -->
 ## 👨‍💻 Programming Languages
 ![](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css-430098?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/'-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=ffd60a) ![](https://img.shields.io/badge/typescript-777BB4?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/python-276DC3?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/'-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=ffd60a) ![](https://img.shields.io/badge/typescript-777BB4?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=C&logoColor=white)
 
 <!-- [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/master) -->
 
