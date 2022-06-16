@@ -7,38 +7,33 @@
 </div>
 
 
-<br />
-[![My github stats](https://github-readme-stats.vercel.app/api?username=devumairazmat&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&show_icons=true&custom_title=GitHub%20Stats(devumairazmat))](https://github.com/devumairazmat)
-<br />
+## 📊 GitHub Statistics
+#### Score
+<a href="https://github.com/devumairazmat/devumairazmat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devumairazmat&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
+</a>
+
 <!-- Trpophies -->
 ## 🏆 **GITHUB TROPHIES**
 
 ![https://github.com/devumairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=devumairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 <br />
 
+<a href="[http://www.github.com/hicodersofficial](https://github.com/devumairazmat?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=devumairazmat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+#### Languages
+
+
+  <a href="https://github.com/devumairazmat/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devumairazmat&theme=highcontrast" />
+</a>
+
 #### Consistency:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devumairazmat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
-<!-- Graph -->
-![](https://activity-graph.herokuapp.com/graph?username=devumairazmat&theme=redical)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devumairazmat&langs_count=8)](https://github.com/devumairazmat)
-
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 <!-- Tools And Techs -->
+
 ## 🕸️ **Programming Languages**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
@@ -110,13 +105,19 @@
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+### Achievements:
+
+<div align="center">  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=devumairazmat&margin-w=15&margin-h=15" />
+
+</div>
 
 <br />
 <!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/devumairazmat/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devumairazmat&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/devumairazmat/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devumairazmat&repo=convoychat" />
 </a>
  -->
