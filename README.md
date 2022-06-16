@@ -1,4 +1,4 @@
-# <h1 aign="center"> UMAIR AZMAT </h1>
+# UMAIR AZMAT
 ### Hi I'm Software Developer 👋
 
 <a href="https://www.linkedin.com/in/umair-azmat-364a5a1a5/"><div style="font-size: 25px; width: 2%;">
