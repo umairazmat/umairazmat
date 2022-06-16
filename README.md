@@ -10,6 +10,11 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=devumairazmat&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&show_icons=true&custom_title=GitHub%20Stats(devumairazmat))](https://github.com/devumairazmat)
 
+<!-- Trpophies -->
+## 🏆 **GITHUB TROPHIES**
+
+![https://github.com/devumairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=devumairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+
 <!-- Graph -->
 ![](https://activity-graph.herokuapp.com/graph?username=devumairazmat&theme=redical)
 
