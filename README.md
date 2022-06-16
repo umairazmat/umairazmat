@@ -8,27 +8,26 @@
 
 
 ## 📊 GitHub Statistics
-#### Score
+
+### Score
 <a href="https://github.com/devumairazmat/devumairazmat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devumairazmat&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
 </a>
 
 <!-- Trpophies -->
-## 🏆 **GITHUB TROPHIES**
 
-![https://github.com/devumairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=devumairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
-<br />
+## Trophies
 
 <a href="[http://www.github.com/hicodersofficial](https://github.com/devumairazmat?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=devumairazmat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-#### Languages
+## Languages
 
 
   <a href="https://github.com/devumairazmat/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devumairazmat&theme=highcontrast" />
 </a>
 
-#### Consistency:
+## Consistency:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devumairazmat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
@@ -100,12 +99,13 @@
 ![free%20code%20camp](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
 ![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
 
-### 👩‍💻 IDEs
+## 👩‍💻 IDEs
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-### Achievements:
+
+## Achievements:
 
 <div align="center">  
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=devumairazmat&margin-w=15&margin-h=15" />
