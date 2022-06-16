@@ -10,6 +10,9 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=devumairazmat&count_private=true&bg_color=fff&text_color=0A2540&title_color=635BFF&hide=stars&show_icons=true&custom_title=GitHub%20Stats(devumairazmat))](https://github.com/devumairazmat)
 
+<!-- Graph -->
+![](https://activity-graph.herokuapp.com/graph?username=devumairazmat&theme=redical)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
