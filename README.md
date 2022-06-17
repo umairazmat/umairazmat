@@ -17,7 +17,7 @@
   <tr>
     <td>
 <a href="https://github.com/devumairazmat/devumairazmat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devumairazmat&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devumairazmat&show_icons=true&line_height=27&count_private=true&title_color=0891b2&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dev Umair GitHub Stats" />
 </a></td>
     <td>
    
