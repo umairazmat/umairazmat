@@ -9,10 +9,22 @@
 
 ## 📊 GitHub Statistics
 
-### Score
+<table>
+  <tr>
+    <td>### Score
 <a href="https://github.com/devumairazmat/devumairazmat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devumairazmat&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
+</a></td>
+    <td>
+    ## Languages
+
+
+  <a href="https://github.com/devumairazmat/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devumairazmat&theme=highcontrast" />
 </a>
+</td>
+  </tr>
+  </table>
 
 <!-- Trpophies -->
 
@@ -22,12 +34,6 @@
 
 <a href="[http://www.github.com/hicodersofficial](https://github.com/devumairazmat?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=devumairazmat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## Languages
-
-
-  <a href="https://github.com/devumairazmat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devumairazmat&theme=highcontrast" />
-</a>
 
 ## Consistency:
 
