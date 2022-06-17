@@ -11,12 +11,16 @@
 
 <table>
   <tr>
-    <td>### Score
+    <th>### Score</th>
+    <th> ## Languages</th>
+  </tr>
+  <tr>
+    <td>
 <a href="https://github.com/devumairazmat/devumairazmat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devumairazmat&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Bryan's GitHub Stats" />
 </a></td>
     <td>
-    ## Languages
+   
 
 
   <a href="https://github.com/devumairazmat/github-readme-stats">
