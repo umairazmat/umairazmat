@@ -11,8 +11,8 @@
 
 <table>
   <tr>
-    <th>### Score</th>
-    <th> ## Languages</th>
+    <th>## Score</th>
+    <th>## Languages</th>
   </tr>
   <tr>
     <td>
