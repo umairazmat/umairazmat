@@ -2,7 +2,7 @@
 
 ## I am a Coding Maniac, WordPress and Full Stack Web Developer (MERN).
 
-- 🔭 I’m currently working on Full Stack Web Development using MERN and WordPress.
+- 🔭 I’m currently working on WorsdPress and Full Stack Web Development using MERN.
 - 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
 
 ## 🤝🏻 &nbsp;Connect with Me
