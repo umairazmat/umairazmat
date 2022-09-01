@@ -8,7 +8,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Umair Azmat&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/umair-azmat-364a5a1a5/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Skype&logoColor=blue"/></a>
 <a href="https://www.linkedin.com/in/umair-azmat-364a5a1a5/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-devumair-00000?style=flat&logo=Leetcode&logoColor=yellow"/></a>
