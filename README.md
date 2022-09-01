@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/umair-azmat-364a5a1a5/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
-<a href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-devumair-00000?style=flat&logo=Leetcode&logoColor=yellow"/></a>
-<a href="https://dev-devumairazmat.pantheonsite.io/"><img src="https://img.shields.io/badge/-@devumair-1877F2?style=flat&logo=globe&logoColor=white"/></a>
+<a href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-devumair-FFA116?style=flat&logo=Leetcode&logoColor=black"/></a>
+<a href="https://dev-devumairazmat.pantheonsite.io/"><img src="https://img.shields.io/badge/-@devumair-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
 
 </p>
 
