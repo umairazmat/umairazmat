@@ -1,4 +1,4 @@
-### Hey there, I'm Umair Azmat 👋
+### Hey there, I'm Dev Umair Azmat 👋
 
 ## I am a Coding Maniac, WordPress and Full Stack Web Developer (MERN).
 
