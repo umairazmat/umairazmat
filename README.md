@@ -6,14 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;WordPress & Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
 </p>
 
+<div align="center">
 ## I am a Coding Maniac, WordPress and Full Stack Web Developer (MERN).
 
-- 🔭 I’m currently working on WorsdPress and Full Stack Web Development using MERN.
-- 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
+🔭 I’m currently working on WorsdPress and Full Stack Web Development using MERN.
+👯 I’m improving my problem solving skills on HackerRank and LeetCode.
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me</div>
 
-<p align="left">
+
+<p align="center">
 <a href="https://www.linkedin.com/in/umair-azmat-364a5a1a5/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
