@@ -6,13 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;WordPress & Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
 </p>
 
-<div align="center">
 ## I am a Coding Maniac, WordPress and Full Stack Web Developer (MERN).
+<div align="center">
+
 
 🔭 I’m currently working on WorsdPress and Full Stack Web Development using MERN.
 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
 
-## 🤝🏻 &nbsp;Connect with Me</div>
+## 🤝🏻 &nbsp;Connect with Me
+</div>
 
 
 <p align="center">
