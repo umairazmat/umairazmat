@@ -8,7 +8,7 @@
 
 
 <div align="center">
-## I am a Coding Maniac,SoftwareEngineer,WordPress and Full Stack Web Developer (MERN).
+I am a Coding Maniac,SoftwareEngineer,WordPress and Full Stack Web Developer (MERN).
 
 🔭 I’m currently working on WorsdPress and Full Stack Web Development using MERN.
 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
