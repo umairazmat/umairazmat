@@ -29,7 +29,7 @@ I am a Coding Maniac,SoftwareEngineer,WordPress and Full Stack Web Developer (ME
 </div>
 
 
-## 📊 GitHub Statistics
+## 📊 GitHub  Statistics 
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ I am a Coding Maniac,SoftwareEngineer,WordPress and Full Stack Web Developer (ME
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
 
 
-## 📱 **MOBILE DEV**
+## 📱 **MOBILE Development**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")
 
