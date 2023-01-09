@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Myself Uamir Azmat</h1>
+<h1 align="center">Hi there 👋, Myself Umair Azmat</h1>
 
 
 <h2 align="center">I'm a</h2>
