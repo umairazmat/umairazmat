@@ -39,7 +39,7 @@ I am a Coding Maniac,Software Engineer,WordPress, Full Stack Web Developer (MERN
   <tr>
     <td>
 <a href="https://github.com/umairazmat/umairazmat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dev Umair GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Umair GitHub Stats" />
 </a></td>
     <td>
    
