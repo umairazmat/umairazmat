@@ -65,7 +65,7 @@ I am a Coding Maniac,Software Engineer,WordPress, Full Stack Web Developer (MERN
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
 
-<!-- Tools And Techs -->
+<!-- Tools -->
 
 ## 🕸️ **Programming Languages**
 
