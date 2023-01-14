@@ -20,9 +20,10 @@ I am a Coding Maniac,Software Engineer,WordPress, Full Stack Web Developer (MERN
 <p align="center">
 <a href="https://www.linkedin.com/in/umair-azmat-364a5a1a5/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
-<a href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/></a>
-<a href="https://umairazmat.me/"><img src="https://img.shields.io/badge/-devumair-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a><a href="https://umairazmat.me/"><img src="https://img.shields.io/badge/-devumair-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
+ </a>
+
 
 </p>
 
