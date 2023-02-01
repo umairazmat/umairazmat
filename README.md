@@ -31,28 +31,10 @@ I am a Coding Maniac,Software Engineer,WordPress, Full Stack Web Developer (MERN
 </div>
 
 
-## 📊 GitHub  Statistics 
+### 📊 GitHub  Statistics 
 
-<table>
-  <tr>
-    <th><h1>Score</h1></th>
-    <th><h1>Languages</h1></th>
-  </tr>
-  <tr>
-    <td>
-<a href="https://github.com/umairazmat/umairazmat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Umair GitHub Stats" />
-</a></td>
-    <td>
-   
-
-
-  <a href="https://github.com/umairazmat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&theme=highcontrast" />
-</a>
-</td>
-  </tr>
-  </table>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username==umairazmat&show_icons=true&include_all_commits=true&hide_border=true&title_color=796ef9&icon_color=ff9a0c&bg_color=fedada" alt="Yousaf's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&hide=batchfile&layout=compact&title_color=ff9a0c&bg_color=c6e6f9&hide_border=true" /> |
+| ------------- | ------------- |
 
 <!-- Trpophies -->
 
