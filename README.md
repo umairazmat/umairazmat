@@ -8,10 +8,8 @@
 </p>
 
 <div align="center">
-I am a Coding Maniac,Software Engineer,WordPress, Full Stack Web Developer (MERN).
-
-🔭 I’m currently working on WorsdPress and Full Stack Web Development using MERN.
-👯 I’m improving my problem solving skills on HackerRank and LeetCode.
+  
+I am a passionate software engineer and web developer with 2+ years of experience in WordPress, JavaScript, and MERN Stack. I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems. I am also a dedicated teacher and trainer, helping others to learn and improve their skills in coding and web development. In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. I am a lifelong learner and strive to continuously improve my skills and knowledge.
 
 ## 🤝🏻 &nbsp;Connect with Me
 </div>
