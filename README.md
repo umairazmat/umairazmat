@@ -34,8 +34,9 @@ I am a passionate software engineer and web developer with 2+ years of experienc
 
 
 ## Consistency:
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+</div>
 
 
 <!-- Trpophies -->
