@@ -28,25 +28,22 @@ I am a passionate software engineer and web developer with 2+ years of experienc
 
 
 ### 📊 GitHub  Statistics 
+<div align="center">
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&include_all_commits=true&hide_border=true&title_color=796ef9&icon_color=ff9a0c&bg_color=fedada" alt="Umair's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&hide=batchfile&layout=compact&title_color=ff9a0c&bg_color=c6e6f9&hide_border=true" /> |
 | ------------- | ------------- |
+  </div>
 
 
 ## Consistency:
 <div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+  
 </div>
 
 
 <!-- Trpophies -->
-
-## Trophies
-![https://github.com/umairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=umairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
-
-
-<a href="[http://www.github.com/hicodersofficial](https://github.com/umairazmat?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=umairazmat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=#00ccff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
 
 <!-- Tools -->
@@ -123,12 +120,8 @@ I am a passionate software engineer and web developer with 2+ years of experienc
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Achievements:
-
-<div align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=umairazmat&margin-w=15&margin-h=15" />
-
-</div>
+## Trophies
+![https://github.com/umairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=umairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
 <br />
 <!-- 
