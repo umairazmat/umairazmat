@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;WordPress Developer;Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
 </p>
 
+<img src="/My_Assets/Header%20%26%20Footer/Header.png">
+
 <div align="center">
   
 I am a passionate software engineer and web developer with 2+ years of experience in WordPress, JavaScript, and MERN Stack. I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems. I am also a dedicated teacher and trainer, helping others to learn and improve their skills in coding and web development. In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. I am a lifelong learner and strive to continuously improve my skills and knowledge.
