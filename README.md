@@ -9,21 +9,20 @@
 
 <img src="/Header.png" >
 
-<div  width="500px">
-<img align="right" alt="GIF" src="/Coder.gif" width="450px" height="300px" />
+<div  >
+<img align="right" alt="GIF" src="/Coder.gif"   width="400px" height="250px"  />
 I am a passionate software engineer and web developer with 2+ years of experience in WordPress, JavaScript, and MERN Stack. I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems. I am also a dedicated teacher and trainer, helping others to learn and improve their skills in coding and web development. In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. I am a lifelong learner and strive to continuously improve my skills and knowledge.
 </div>
 
 ## 🤝🏻 &nbsp;Connect with Me
-<p align="center">
+<div align="center" >
 <a href="https://www.linkedin.com/in/umairazmat/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a><a href="https://umairazmat.me/"><img src="https://img.shields.io/badge/-devumair-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<a href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-devumair-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
+<a href="https://umairazmat.me/"><img src="https://img.shields.io/badge/-devumair-000000?style=flat&logo=About.me&logoColor=white"/></a>
 <a href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
  </a>
-
-
-</p>
+</div>
 
 
 
