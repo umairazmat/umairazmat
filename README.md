@@ -29,7 +29,7 @@ I am a passionate software engineer and web developer with 2+ years of experienc
 ### 📊 GitHub  Statistics 
 <div align="center">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&include_all_commits=true&hide_border=true&title_color=796ef9&icon_color=ff9a0c&bg_color=fedada" alt="Umair's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&hide=batchfile&layout=compact&title_color=ff9a0c&bg_color=c6e6f9&hide_border=true" />|
+| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&include_all_commits=true&hide_border=true&title_color=796ef9&icon_color=ff9a0c&bg_color=fedada" alt="Umair's github stats" /> | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&hide=batchfile&layout=compact&title_color=ff9a0c&bg_color=c6e6f9&hide_border=true" />|
 | ------------- | ------------- |
   
   ![umairazmat's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=umairazmat&theme=react)
