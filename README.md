@@ -10,8 +10,8 @@
 <img src="/Header.png" >
 
 <div  >
-<img align="right" alt="GIF" src="/Coder.gif"   width="400px" height="250px"  />
-I am a passionate software engineer and web developer with 2+ years of experience in WordPress, JavaScript, and MERN Stack. I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems. I am also a dedicated teacher and trainer, helping others to learn and improve their skills in coding and web development. In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. I am a lifelong learner and strive to continuously improve my skills and knowledge.
+<img align="right" alt="GIF" src="/Coder.gif"   width="400px" height="auto"  />
+  I am a passionate <strong> software engineer </strong>and <b>web developer</b>  with <b>2+ years of experience in WordPress, JavaScript, and MERN Stack</b> . I specialize in creating high-quality web applications, improving businesses' digital presence and performance, and solving complex problems. I am also a dedicated teacher and trainer, helping others to learn and improve their skills in coding and web development. In addition to my professional work, I am an open-source enthusiast who is always looking for ways to contribute to the community. I am a lifelong learner and strive to continuously improve my skills and knowledge.
 </div>
 
 ## 🤝🏻 &nbsp;Connect with Me
