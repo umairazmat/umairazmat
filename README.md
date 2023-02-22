@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, Myself Umair Azmat</h1>
 
-
 <h2 align="center">I'm a</h2>
 
 <p align="center">
@@ -34,7 +33,7 @@
 </p>
 </p>
 
-# Github Contributions
+# Github Contributions 📊
 <!-- <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
@@ -44,7 +43,7 @@
   
 <!-- Tools -->
 
-## 🕸️ **Programming Languages**
+## 🕸️ **Programming Languages** 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
