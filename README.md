@@ -9,7 +9,7 @@
 <img src="/Header.png" >
 
 <div  >
-<img align="right" alt="GIF" src="/Coder.gif"   width="400px" height="auto"  />
+
 	
  👋 Hello! I'm Umair Azmat, a Software Engineering student at Government College University, on track to graduate in July 2023. With a cumulative GPA of 3.75/4.0, I've built a strong foundation in various areas of software development.
 
@@ -24,6 +24,8 @@
 🎯 As a software engineering graduate, my expertise lies in JavaScript, C#, and C++. I'm passionate about applying my skills to real-world projects that positively impact businesses and their customers. I strive to stay up-to-date with the latest technologies and industry trends, always eager to learn and grow.
 
 🌱 I strongly believe in the power of open-source and actively contribute to the community. Sharing knowledge and fostering personal and professional growth are fundamental to me.
+	
+<img align="right" alt="GIF" src="/Coder.gif"   width="400px" height="auto"  />
 </div>
 
 ## 🤝🏻 &nbsp;Connect with Me
