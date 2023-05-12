@@ -3,7 +3,7 @@
 <h2 align="center">I'm a</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;WordPress Developer;Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;WordPress Developer;Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#bfcfde&vCenter=true&size=40&pause=1000">
 </p>
 
 <img src="/Header.png" >
