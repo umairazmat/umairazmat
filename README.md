@@ -11,14 +11,15 @@
 
 <img src="/Header.png" >
 
-<div  >
-
-	
+<!-- Bio -->
+<div align="center">
+  <h4 width=50%>
+ 	
  👋 Hello! I'm Umair Azmat, a Software Engineering student at Government College University, on track to graduate in July 2023. With a cumulative GPA of 3.75/4.0, I've built a strong foundation in various areas of software development.
 
 📚 Throughout my studies, I've covered a wide range of relevant courses including Object-Oriented Programming, Data Structures and Algorithms, Database Systems, Operating Systems, Web Development, Software Requirements Engineering, Software Development Life Cycle, and Human-Computer Interaction.
 
-💼 In my previous roles, I served as an instructor at Saylani Mass IT Training, where I successfully guided over 100 students. I'm proud to have achieved a high course completion rate of 90% and secured job placements for 75% of the graduates. Additionally, as an Intern WordPress Developer at QNAR International, I collaborated with clients to create and maintain custom WordPress websites and applications.
+💼 In my previous roles, I served as an instructor at Saylani Mass IT Training, where I successfully guided over 100 students. Additionally, as an Intern WordPress Developer at QNAR International, I collaborated with clients to create and maintain custom WordPress websites and applications.
 
 🚀 During my university journey, I completed several notable projects including the Blind Stick Project, a Pizza Shop website, a Library Management System, and a PacMan Game. As the Founder and President of Tech Society at Government College University, I took the initiative to establish 15 tech-focused groups within the software engineering community.
 
@@ -27,9 +28,12 @@
 🎯 As a software engineering graduate, my expertise lies in JavaScript, C#, and C++. I'm passionate about applying my skills to real-world projects that positively impact businesses and their customers. I strive to stay up-to-date with the latest technologies and industry trends, always eager to learn and grow.
 
 🌱 I strongly believe in the power of open-source and actively contribute to the community. Sharing knowledge and fostering personal and professional growth are fundamental to me.
-	
-<img align="right" alt="GIF" src="/Coder.gif"   width="400px" height="auto"  />
+  </h4>
+	<img align="center"  alt="GIF" src="/Coder.gif"   width="400px" height="auto"  />
 </div>
+
+
+
 
 ## 🤝🏻 &nbsp;Connect with Me
 <div align="center" >
@@ -46,6 +50,7 @@
 <a href="https://github.com/umairazmat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umairazmat&langs_count=12&layout=compact&langs_count=8&theme=algolia"/>
+	
 </a>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
 </p>
@@ -58,72 +63,19 @@
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p> -->
+# Tech Stack 🛠️
+<!-- tech stack -->
+<!-- reference = https://github.com/tandpfun/skill-icons -->
+<br>
+<div align="center">
+  <a href="https://github.com/yousafsabir">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
+  </a>
+</div>
+
+<br>
   
 <!-- Tools -->
-
-## 🕸️ **Programming Languages** 
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
-
-
-## 🕸️ **WEB DEV**
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![Bootstrap](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
-
-
-## 📱 **MOBILE Development**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")
-
-##  🧰 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-## 📅 **DATABASES**
-
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
-
-## 🛠️ **DEVOPS TOOLS**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")
-
-## ☁️ **CLOUDS**
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")
-![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
-
-
-## 🍧 **DESIGN TOOLS**
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## 🎓📚 **Education**
 
@@ -147,15 +99,3 @@
 
 ## Trophies
 ![https://github.com/umairazmat?tab=repositories](https://github-profile-trophy.vercel.app/?username=umairazmat&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
-
-<br />
-<!-- 
-<a href="https://github.com/umairazmat/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umairazmat&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/umairazmat/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umairazmat&repo=convoychat" />
-</a>
-
- -->
-
