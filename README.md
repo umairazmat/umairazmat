@@ -57,17 +57,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umairazmat&langs_count=12&layout=compact&langs_count=8&theme=algolia"/>
 	
-</a>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
-</p>
+	</a>
 </p>
 
 # Github Contributions 📊
+
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true"/>
+
 <!-- <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
 </p> -->
 
 # Tech Stack 🛠️
