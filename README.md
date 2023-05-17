@@ -1,3 +1,17 @@
+# Tech Stack 🛠️
+<!-- tech stack -->
+<!-- reference = https://github.com/tandpfun/skill-icons -->
+<br>
+<div align="center">
+  <a href="https://github.com/yousafsabir">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,,sass,js,ts,cs,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
+  </a>
+</div>
+
+<br>
+  
+<!-- Tools -->
+
 <!-- Profile Widget -->
 <!-- reference = https://github.com/Jurredr/github-widgetbox -->
 <a href="https://github.com/umairazmat">
@@ -63,19 +77,7 @@
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p> -->
-# Tech Stack 🛠️
-<!-- tech stack -->
-<!-- reference = https://github.com/tandpfun/skill-icons -->
-<br>
-<div align="center">
-  <a href="https://github.com/yousafsabir">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,ts,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
-  </a>
-</div>
 
-<br>
-  
-<!-- Tools -->
 
 ## 🎓📚 **Education**
 
