@@ -1,17 +1,3 @@
-# Tech Stack 🛠️
-<!-- tech stack -->
-<!-- reference = https://github.com/tandpfun/skill-icons -->
-<br>
-<div align="center">
-  <a href="https://github.com/yousafsabir">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,,sass,js,ts,cs,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
-  </a>
-</div>
-
-<br>
-  
-<!-- Tools -->
-
 <!-- Profile Widget -->
 <!-- reference = https://github.com/Jurredr/github-widgetbox -->
 <a href="https://github.com/umairazmat">
@@ -50,6 +36,12 @@
 
 
 ## 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+  <a href="(https://www.linkedin.com/in/umairazmat/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+</p>
 <div align="center" >
 <a target="_blank" href="https://www.linkedin.com/in/umairazmat/"><img src="https://img.shields.io/badge/-devumair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-devumair260@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -77,6 +69,20 @@
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p> -->
+
+# Tech Stack 🛠️
+<!-- tech stack -->
+<!-- reference = https://github.com/tandpfun/skill-icons -->
+<br>
+<div align="center">
+  <a href="https://github.com/umairazmat">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
+  </a>
+</div>
+
+<br>
+  
+<!-- Tools -->
 
 
 ## 🎓📚 **Education**
