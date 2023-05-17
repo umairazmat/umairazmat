@@ -51,7 +51,7 @@
  </a>
 </div>
 
- <h2><i>⚙️ GitHub Analytics</i></h2>
+<h2><i>⚙️ GitHub Analytics</i></h2>
     <p align="center">
         <a href="https://github.com/umairazmat">
             <img height="180em"
