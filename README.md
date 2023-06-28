@@ -21,7 +21,7 @@
 
 💼 In my previous roles, I served as an instructor at Saylani Mass IT Training, where I successfully guided over 100 students. Additionally, as an Intern WordPress Developer at QNAR International, I collaborated with clients to create and maintain custom WordPress websites and applications.
 
-🚀 During my university journey, I completed several notable projects including the Blind Stick Project, a Pizza Shop website, a Library Management System, and a PacMan Game. As the Founder and President of Tech Society at Government College University, I took the initiative to establish 15 tech-focused groups within the software engineering community.
+🚀 During my university journey, I completed several notable projects including the Blind Stick Project, a Pizza Shop website, a Library Management System, and a PacMan Game. As the Founder and President of the Tech Society at Government College University, I took the initiative to establish 15 tech-focused groups within the software engineering community.
 
 💻 I possess advanced skills in HTML/CSS, Bootstrap, JavaScript, and CSharp. I'm also experienced with web frameworks such as React and Next.js, as well as database systems like MongoDB, MySQL, and PostgreSQL. Fluent in English and Urdu, I also have conversational proficiency in Punjabi.
 
