@@ -15,7 +15,7 @@
 <div align="center">
   <h4 width=50%>
  	
- 👋 Hello! I'm Umair Azmat, a Software Engineering student at Government College University, on track to graduate in July 2023. With a cumulative GPA of 3.75/4.0, I've built a strong foundation in various areas of software development.
+ 👋 Hello! I'm Umair Azmat, a Software Engineering student at Government College University, on track to graduate in July 2023. With a cumulative GPA of 3.77/4.0, I've built a strong foundation in various areas of software development.
 
 📚 Throughout my studies, I've covered a wide range of relevant courses including Object-Oriented Programming, Data Structures and Algorithms, Database Systems, Operating Systems, Web Development, Software Requirements Engineering, Software Development Life Cycle, and Human-Computer Interaction.
 
