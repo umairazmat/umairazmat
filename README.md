@@ -15,19 +15,19 @@
 <div align="center">
   <h4 width=50%>
  	
- 👋 Hello! I'm Umair Azmat, a Software Engineering student at Government College University, on track to graduate in July 2023. With a cumulative GPA of 3.77/4.0, I've built a strong foundation in various areas of software development.
+ 👋 Hello! I'm Umair Azmat, a Software Engineering student at Government College University, on track to graduate in July 2023. With a cumulative GPA of 3.77/4.0, I've built a strong foundation in various areas of software development. Throughout my studies, I've covered a wide range of relevant courses and completed notable projects.
 
-📚 Throughout my studies, I've covered a wide range of relevant courses including Object-Oriented Programming, Data Structures and Algorithms, Database Systems, Operating Systems, Web Development, Software Requirements Engineering, Software Development Life Cycle, and Human-Computer Interaction.
+ 🚀 As a highly skilled software engineer and front-end developer, I bring a wealth of expertise to the table for clients and industry professionals alike. With proficiency in the MERN stack and WordPress, I deliver exceptional results in creating robust, visually appealing, and interactive websites. 💻🎨
 
-💼 In my previous roles, I served as an instructor at Saylani Mass IT Training, where I successfully guided over 100 students. Additionally, as an Intern WordPress Developer at QNAR International, I collaborated with clients to create and maintain custom WordPress websites and applications.
+⚙️ By leveraging my knowledge of software engineering principles and layering architectural techniques, I ensure seamless user experiences and optimal performance. I specialize in building websites that captivate users and drive business growth. 🔍💪
 
-🚀 During my university journey, I completed several notable projects including the Blind Stick Project, a Pizza Shop website, a Library Management System, and a PacMan Game. As the Founder and President of the Tech Society at Government College University, I took the initiative to establish 15 tech-focused groups within the software engineering community.
+💻 I possess advanced skills in HTML/CSS, Bootstrap, JavaScript, and CSharp. I also have experience with web frameworks like React, Angular, and Next.js, as well as database systems such as MongoDB, MySQL, and SQL WorkBench. Fluent in English and Urdu, I have conversational proficiency in Punjabi.
 
-💻 I possess advanced skills in HTML/CSS, Bootstrap, JavaScript, and CSharp. I'm also experienced with web frameworks such as React and Next.js, as well as database systems like MongoDB, MySQL, and PostgreSQL. Fluent in English and Urdu, I also have conversational proficiency in Punjabi.
+🌱 Additionally, my teaching and coaching skills allow me to guide and mentor others, fostering their growth and success. I believe in empowering individuals to reach their full potential in the ever-evolving world of technology. 📚🌟
 
-🎯 As a software engineering graduate, my expertise lies in JavaScript, C#, and C++. I'm passionate about applying my skills to real-world projects that positively impact businesses and their customers. I strive to stay up-to-date with the latest technologies and industry trends, always eager to learn and grow.
+🤝 Whether you're a client seeking a standout website or an industry professional looking to collaborate, let's connect and explore how I can contribute to your projects or provide valuable insights. Together, we can create remarkable digital solutions that leave a lasting impact. 💼✨
 
-🌱 I strongly believe in the power of open-source and actively contribute to the community. Sharing knowledge and fostering personal and professional growth are fundamental to me.
+📩 Don't hesitate to reach out and let's connect and start a conversation.
   </h4>
 	<img align="center"  alt="GIF" src="/Coder.gif"   width="400px" height="auto"  />
 </div>
