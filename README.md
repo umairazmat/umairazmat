@@ -27,7 +27,7 @@
 
 🤝 Whether you're a client seeking a standout website or an industry professional looking to collaborate, let's connect and explore how I can contribute to your projects or provide valuable insights. Together, we can create remarkable digital solutions that leave a lasting impact. 💼✨
 
-📩 Don't hesitate to reach out and let's connect and start a conversation.
+📩 Don't hesitate to reach out and let's connect and start a conversation. 📞
   </h4>
 	<img align="center"  alt="GIF" src="/Coder.gif"   width="400px" height="auto"  />
 </div>
