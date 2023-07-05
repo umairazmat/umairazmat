@@ -29,6 +29,7 @@
 <img align="center"  alt="GIF" src="/Codr.gif"   width="400px" height="auto"  />
 
 ## 🤝🏻 &nbsp;Connect with Me
+
 <div align="center" >
 <a target="_blank" href="https://www.linkedin.com/in/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-umairazmatdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
