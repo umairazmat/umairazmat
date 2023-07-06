@@ -63,7 +63,6 @@
   </a>
 </div>
 
-
 ## 🧑‍💻 Tech Stack 🛠️
 <!-- tech stack -->
 <!-- reference = https://github.com/tandpfun/skill-icons -->
@@ -73,5 +72,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>
 </div>
-
-
