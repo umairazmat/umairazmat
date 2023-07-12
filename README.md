@@ -61,7 +61,7 @@
 <hr>
 <br>
 <div align="center">
-  <a href="https://github.com/yousafsabir">
+  <a href="https://github.com/umairazmat">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark">
   </a>
 </div>
