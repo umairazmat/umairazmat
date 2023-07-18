@@ -66,6 +66,11 @@
   </a>
 </div>
 
+<h2><i>🏅 Awards &  Badges</i></h2>
+<div align="center">
+ <img src="python-for-data-science-and-ai.png">
+</div>
+
 ## 🧑‍💻 Tech Stack 🛠️
 
 <!-- tech stack -->
