@@ -68,7 +68,9 @@
 
 <h2><i>🏅 Awards &  Badges</i></h2>
 <div align="center">
- <img src="python-for-data-science-and-ai.png">
+ <img height="200px" src="python-for-data-science-and-ai.png">
+<img height="200px" src="python-project-for-ai-and-application-development.png">
+   
 </div>
 
 ## 🧑‍💻 Tech Stack 🛠️
