@@ -68,8 +68,12 @@
 
 <h2><i>🏅 Awards &  Badges</i></h2>
 <div align="center">
- <img height="200px" src="python-for-data-science-and-ai.png">
-<img height="200px" src="python-project-for-ai-and-application-development.png">
+    <a href="https://www.credly.com/earner/earned/badge/a3d5b37f-7b7f-4ed4-b94d-677b67002b62">
+        <img height="200px" src="python-for-data-science-and-ai.png">
+    </a>
+ <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
+     <img height="200px" src="python-project-for-ai-and-application-development.png">
+ </a>
    
 </div>
 
