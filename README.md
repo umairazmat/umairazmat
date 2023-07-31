@@ -4,7 +4,6 @@
 <a href="https://github.com/umairazmat">
     <img height=auto width=100% src="https://github-widgetbox.vercel.app/api/profile?username=umairazmat&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
-
 <!-- -------Header------- -->
 
 <p align="center">
