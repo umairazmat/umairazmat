@@ -73,6 +73,9 @@
  <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
      <img height="200px" src="python-project-for-ai-and-application-development.png">
  </a>
+ <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
+     <img height="200px" src="python-project-for-ai-and-application-development.png">
+ </a>
    
 </div>
 
