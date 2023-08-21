@@ -88,7 +88,11 @@
 <div align="center">
     <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
     <img height="200px" src="developing-applications-with-sql-databases-and-django.png">
+
+    <a href="https://www.credly.com/earner/earned/badge/3c52059b-cf47-4bad-bf28-43306571d700">
+    <img height="200px" src="container-kubernetes-essentials-v2.png">
 </a>
+
 
 </div>
 
