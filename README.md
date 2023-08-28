@@ -36,7 +36,7 @@
 <a target="_blank" href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-umairazmatdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a target="_blank" href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-umairazmat-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
 <a target="_blank" href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-FFDD00?style=flat&logo=LeetCode&logoColor=black"/></a>
-<a target="_blank" href="https://umairazmat.me/"><img src="https://img.shields.io/badge/-umairazmat-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<a target="_blank" href="https://umairazmat.com/"><img src="https://img.shields.io/badge/-umairazmat-000000?style=flat&logo=About.me&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
  </a>
 </div>
