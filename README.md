@@ -8,10 +8,10 @@
 <!-- -------Header------- -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Software-Engineer;WordPress Developer;Full Stack Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Full-Stack Software-Engineer;WordPress Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
 </p>
 
-<img src="/Header1.png" >
+<img src="/Git Umair.png" >
 
 <!-- Bio -->
 - 👋 Hello! I'm Umair Azmat, a Software Engineering student with a strong foundation and notable projects
