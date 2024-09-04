@@ -19,7 +19,7 @@
 - 👋 Hello! I'm Umair Azmat, a Software Engineering student with a strong foundation and notable projects
 - 💪 I'm skilled in the MERN stack, WordPress, and front-end development. 
 - 🔭 Currently working As Full Stack Engineer.
-- ⚙️ My advanced skills include HTML/CSS, Bootstrap, JavaScript, CSharp, React, Angular, Next.js, MongoDB, MySQL, and SQL WorkBench.
+- ⚙️ My advanced skills include HTML/CSS, Bootstrap, JavaScript, Typescript, CSharp, React, Angular, Next.js, MongoDB, MySQL, and SQL WorkBench.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/umairazmat/)**.
 - 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
 - 👨‍🏫 Former Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
