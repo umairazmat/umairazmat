@@ -25,7 +25,7 @@
 - 👨‍🏫 Former Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
-- 🥅 2023 Goals: Expand my knowledge and skills in software development.
+- 🥅 2024 Goals: Expand my knowledge and skills in software development.
 - 📫 How to reach me **umairazmatdev@gmail.com** || **umair@devlotech.com**
 - 📩 Don't hesitate to reach out & let's connect and start a conversation.📞
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights. Together, we can create remarkable digital solutions that leave a lasting impact. 💼✨
