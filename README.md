@@ -16,7 +16,7 @@
 
 <!-- Bio -->
 
-- 👋 Hello! I'm Umair Azmat, a Software Engineering student with a strong foundation and notable projects
+- 👋 Hello! I'm Umair Azmat,a Software Engineering student with a strong foundation and notable projects
 - 💪 I'm skilled in the MERN stack, WordPress, and front-end development. 
 - 🔭 Currently working As Full Stack Engineer.
 - ⚙️ My advanced skills include HTML/CSS, Bootstrap, JavaScript, Typescript, CSharp, React, Angular, Next.js, MongoDB, MySQL, and SQL WorkBench.
