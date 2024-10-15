@@ -1,4 +1,5 @@
-<!--  Profile Widget  -->
+<!--  Profile Intro  -->
+# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/umairazmat.svg?label=PROFILE%20VIEWS&extraCount=99000&color=e51c1c)](https://hits.sh/github.com/umairazmat/) 
 
 <!-- Reference: https://github.com/Jurredr/github-widgetbox -->
 
@@ -11,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Full-Stack Software-Engineer;WordPress Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
 </p>
 
-<img src="/Git Umair.png" >
+<h2><b>Empowering Minds Through Code 🖥️</b></h2>
 
 <!-- Bio -->
 
@@ -35,10 +36,10 @@
 
 <div align="center" >
 <a target="_blank" href="https://www.linkedin.com/in/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a target="_blank" href="mailto:devumair260@gmail.com"><img src="https://img.shields.io/badge/-umairazmatdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-umairazmat-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
+<a target="_blank" href="mailto:umairazmatdev@gmail.com"><img src="https://img.shields.io/badge/-umairazmatdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a target="_blank" href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-FFDD00?style=flat&logo=LeetCode&logoColor=black"/></a>
 <a target="_blank" href="https://umairazmat.com/"><img src="https://img.shields.io/badge/-umairazmat-000000?style=flat&logo=About.me&logoColor=white"/></a>
+<a target="_blank" href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-umairazmat-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
  </a>
 </div>
