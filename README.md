@@ -113,3 +113,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cs,dotnet,react,nextjs,redux,materialui,nodejs,express,firebase,postgres,mongodb,python,fastapi,figma,xd,powershell,git,github,stackoverflow,vscodeqt&perline=6" />
   </a>
 </div>
+
+# Stats
+
+| Six Months | One Year | All Time |
+|------------|----------|----------|
+| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=six_months&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=all_time&theme=synthwaves)](https://githubtrends.io) |
+| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=six_months&include_private=true&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=bright_lights)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=all_time&include_private=true&group=private&loc_metric=changed&theme=synthwaves)](https://githubtrends.io) |
+
+
