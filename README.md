@@ -20,7 +20,7 @@
 - 💪 I'm skilled in the MERN stack, WordPress, and front-end development. 
 - 🔭 Currently working As Full Stack Engineer.
 - ⚙️ My advanced skills include HTML/CSS, Bootstrap, JavaScript, Typescript, CSharp, React, Angular, Next.js, MongoDB, MySQL, and SQL WorkBench.
-- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/umairazmat/)**.
+- 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/u/umairazmatt/)**.
 - 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
 - 👨‍🏫 Former Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
@@ -37,7 +37,7 @@
 <div align="center" >
 <a target="_blank" href="https://www.linkedin.com/in/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="mailto:umairazmatdev@gmail.com"><img src="https://img.shields.io/badge/-umairazmatdev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://leetcode.com/umairazmat/"><img src="https://img.shields.io/badge/-umairazmat-FFDD00?style=flat&logo=LeetCode&logoColor=black"/></a>
+<a target="_blank" href="https://leetcode.com/u/umairazmatt/"><img src="https://img.shields.io/badge/-umairazmat-FFDD00?style=flat&logo=LeetCode&logoColor=black"/></a>
 <a target="_blank" href="https://umairazmat.com/"><img src="https://img.shields.io/badge/-umairazmat-000000?style=flat&logo=About.me&logoColor=white"/></a>
 <a target="_blank" href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-umairazmat-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
 <a target="_blank" href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
