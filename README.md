@@ -9,9 +9,15 @@
 
 <!---------Header------- -->
 
+<!-- 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Full-Stack Software-Engineer;WordPress Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
-</p>
+</p> 
+-->
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Flex&weight=600&size=30&duration=1500&pause=1000&color=162238&background=FFFFFF00&center=true&vCenter=true&random=true&width=800&lines=Software+Engineer;GenAI+%26+MERN+Enthusiast;MS%2FPhD+Aspirant;BS+Software+Engineering+(CGPA%3A+3.78%2F4.0);Always+learning+new+things;Former+Trainer+%40SMIT+(500%2B+students);Gold+Medalist+%40PFTP;DSA+%26+LeetCode+Solver;Hackathon+Participant+%40labLab.ai+%26+%40NASA;Wordpress+%26+CMS+Developer" alt="Typing SVG" /></a>
+</p> 
 
 <h2><b>Empowering Minds Through Code 🖥️</b></h2>
 
@@ -19,10 +25,10 @@
 
 - 👋 Hello! I'm Umair Azmat,a Software Engineering student with a strong foundation and notable projects
 - 💪 I'm skilled in the MERN stack, WordPress, and front-end development. 
-- 🔭 Currently working As Full Stack Engineer.
-- ⚙️ My advanced skills include HTML/CSS, Bootstrap, JavaScript, Typescript, CSharp, React, Angular, Next.js, MongoDB, MySQL, and SQL WorkBench.
+- 🔭 Currently working As Full Stack Engineer at PowerSoft19.
+- ⚙️ My advanced skills include HTML/CSS, Bootstrap/Tailwind CSS, JavaScript/Typescript, C#, React.js, Next.js, MongoDB, MySQL, and SQL WorkBench.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/u/umairazmatt/)**.
-- 🌱 And also expanding my knowledge in devops(docker, kubernates, CI/CD).
+- 🌱 And also expanding my knowledge in AI/ML(Generative AI, Hugging Face, Kaggle).
 - 👨‍🏫 Former Instructor at **[Saylani Mass IT Training Program(SMIT)](https://saylaniwelfare.com/en/services/education/technical-education/saylani-mass-it-training)**.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students.
