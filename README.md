@@ -17,7 +17,7 @@
 
 <!---------typing--------->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Flex&weight=600&size=30&duration=1500&pause=1000&color=162238&background=FFFFFF00&center=true&vCenter=true&random=true&width=800&lines=Software+Engineer;GenAI+%26+MERN+Enthusiast;MS%2FPhD+Aspirant;BS+Software+Engineering+(CGPA%3A+3.78%2F4.0);Always+learning+new+things;Former+Trainer+%40SMIT+(500%2B+students);Gold+Medalist+%40PFTP;DSA+%26+LeetCode+Solver;Hackathon+Participant+%40labLab.ai+%26+%40NASA;Wordpress+%26+CMS+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Flex&weight=600&size=30&duration=1500&pause=1000&color=&background=FFFFFF00&center=true&vCenter=true&random=true&width=800&lines=Software+Engineer;GenAI+%26+MERN+Enthusiast;MS%2FPhD+Aspirant;BS+Software+Engineering+(CGPA%3A+3.78%2F4.0);Always+learning+new+things;Former+Trainer+%40SMIT+(500%2B+students);Gold+Medalist+%40PFTP;DSA+%26+LeetCode+Solver;Hackathon+Participant+%40labLab.ai+%26+%40NASA;Wordpress+%26+CMS+Developer" alt="Typing SVG" /></a>
 </p> 
 
 <h2><b>Empowering Minds Through Code 🖥️</b></h2>
