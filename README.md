@@ -68,10 +68,9 @@
     </p>
 
 <!-- quote -->
-
+## 🍵 Daily Quote
 <!-- reference = https://github.com/PiyushSuthar/github-readme-quotes -->
-<br>
-<hr>
+
 <br>
 <div align="center">
   <a href="https://github.com/umairazmat">
