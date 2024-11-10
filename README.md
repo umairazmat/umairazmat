@@ -1,6 +1,6 @@
 <!--  Profile Intro  -->
 
-# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/umairazmat.svg?label=PROFILE%20VIEWS&extraCount=99000&color=e51c1c)](https://hits.sh/github.com/umairazmat/) 
+# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/umairazmat.svg?label=PROFILE%20VIEWS&extraCount=99000&color=e51c1c)](https://hits.sh/github.com/umairazmat/)
 
 <!-- Reference: https://github.com/Jurredr/github-widgetbox -->
 
@@ -10,24 +10,24 @@
 
 <!---------Header--------->
 
-<!-- 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Full-Stack Software-Engineer;WordPress Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
-</p> 
+</p>
 -->
 
 <!---------typing--------->
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Flex&weight=600&size=24&duration=1500&pause=1000&color=&background=FFFFFF00&center=true&vCenter=true&random=true&width=800&lines=Software+Engineer;GenAI+%26+MERN+Enthusiast;MS%2FPhD+Aspirant;BS+Software+Engineering+(CGPA%3A+3.78%2F4.0);Always+learning+new+things;Former+Trainer+%40SMIT+(500%2B+students);Gold+Medalist+%40PFTP;DSA+%26+LeetCode+Solver;Hackathon+Participant+%40labLab.ai+%26+%40NASA;Wordpress+%26+CMS+Developer" alt="Typing SVG" /></a>
-</p> 
+</p>
 
 ## 🖥️ Empowering Minds Through Code
 
 <!-- Bio -->
 
 - 👋 Hello! I'm Umair Azmat,a Software Engineering student with a strong foundation and notable projects
-- 💪 I'm skilled in the MERN stack, WordPress, and front-end development. 
+- 💪 I'm skilled in the MERN stack, WordPress, and front-end development.
 - 🔭 Currently working As Full Stack Engineer at PowerSoft19.
 - ⚙️ My advanced skills include HTML/CSS, Bootstrap/Tailwind CSS, JavaScript/Typescript, C#, React.js, Next.js, MongoDB, MySQL, and SQL WorkBench.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems on **[Leetcode](https://leetcode.com/u/umairazmatt/)**.
@@ -39,7 +39,7 @@
 - 📫 How to reach me **umairazmatdev@gmail.com** || **hello@umairazmat.com**
 - 📩 Don't hesitate to reach out & let's connect and start a conversation.📞
 - 🤝 Let's connect and explore how I can contribute to your projects or provide valuable insights. Together, we can create remarkable digital solutions that leave a lasting impact. 💼✨
-  
+
 <img align="center"  alt="GIF" src="/Codr.gif"   width="400px" height="auto" />
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -50,8 +50,11 @@
 <a target="_blank" href="https://leetcode.com/u/umairazmatt/"><img src="https://img.shields.io/badge/-umairazmat-FFDD00?style=flat&logo=LeetCode&logoColor=black"/></a>
 <a target="_blank" href="https://umairazmat.com/"><img src="https://img.shields.io/badge/-umairazmat-000000?style=flat&logo=About.me&logoColor=white"/></a>
 <a target="_blank" href="https://join.skype.com/invite/wX0rMaj2bGyZ"><img src="https://img.shields.io/badge/-umairazmat-00AFF0?style=flat&logo=Skype&logoColor=white"/></a>
+<a target="_blank" href="https://www.credly.com/users/umairazmat"><img src="https://img.shields.io/badge/-Credly_Profile-FF6B00?style=flat&logo=Credly&logoColor=white"/>
+</a>
 <a target="_blank" href="https://www.buymeacoffee.com/devumair26o"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style==flat&logo=buy-me-a-coffee&logoColor=black"/>
- </a>
+</a>
+
 </div>
 
 <!-- GitHub Analytics -->
@@ -68,7 +71,9 @@
     </p>
 
 <!-- quote -->
+
 ## 🍵 Daily Quote
+
 <!-- reference = https://github.com/PiyushSuthar/github-readme-quotes -->
 
 <br>
@@ -111,7 +116,6 @@
    </a>
 </div>
 
-
 ## 🧑‍💻 Tech Stack 🛠️
 
 <!-- tech stack -->
@@ -126,9 +130,7 @@
 
 # Stats
 
-| Six Months | One Year | All Time |
-|------------|----------|----------|
-| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=six_months&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=all_time&theme=synthwaves)](https://githubtrends.io) |
+| Six Months                                                                                                                                                                                    | One Year                                                                                                                                                                                             | All Time                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=six_months&theme=dark)](https://githubtrends.io)                                                       | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)                                    | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=all_time&theme=synthwaves)](https://githubtrends.io)                                                       |
 | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=six_months&include_private=true&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=bright_lights)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=all_time&include_private=true&group=private&loc_metric=changed&theme=synthwaves)](https://githubtrends.io) |
-
-
