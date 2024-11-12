@@ -84,6 +84,7 @@
 </div>
 
 <h2><i>🏅 Awards &  Badges</i></h2>
+
 <div align="center">
    <a href="https://www.credly.com/earner/earned/badge/a3d5b37f-7b7f-4ed4-b94d-677b67002b62">
     <img height="200px" src="front-end-development-with-react.png">
