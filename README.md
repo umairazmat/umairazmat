@@ -66,8 +66,9 @@
             <img height="180em"
                 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=umairazmat&langs_count=12&layout=compact&langs_count=8&theme=algolia" />
         </a>
-        <img width="50%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+<!--         <img width="50%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=umairazmat&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" /> -->
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=umairazmat&theme=algolia&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
     </p>
 
 <!-- quote -->
