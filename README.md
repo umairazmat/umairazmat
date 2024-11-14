@@ -134,3 +134,9 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=six_months&theme=dark)](https://githubtrends.io)                                                       | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)                                    | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=all_time&theme=synthwaves)](https://githubtrends.io)                                                       |
 | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=six_months&include_private=true&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=bright_lights)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/repos?time_range=all_time&include_private=true&group=private&loc_metric=changed&theme=synthwaves)](https://githubtrends.io) |
+
+<!-- GitHub Trophies -->
+<h2><i>🏆 GitHub Trophies</i></h2>
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=umairazmat&theme=onedark&row=3&column=6" />
+</p>
