@@ -72,6 +72,10 @@
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=umairazmat&theme=algolia&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
     </p>
 
+<!-- GitHub Streak -->
+<h2><i>⚙️ GitHub Streak</i></h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <!-- quote -->
 
 ## 🍵 Daily Quote
