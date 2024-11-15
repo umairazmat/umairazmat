@@ -1,12 +1,13 @@
 <!--  Profile Intro  -->
 
-# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/umairazmat.svg?label=PROFILE%20VIEWS&extraCount=99000&color=e51c1c)](https://hits.sh/github.com/umairazmat/)
+# Software Engineer & Tech Trainer [![Hits](https://hits.sh/github.com/umairazmat.svg?label=PROFILE%20VIEWS&extraCount=99000&color=e51c1c)](https://hits.sh/github.com/umairazmat/) [![Hits](https://hits.sh/hits.sh/github.com/umairazmat.svg?label=Top%20GitHub%20User&extraCount=296)](https://hits.sh/hits.sh/github.com/umairazmat/)
 
 <!-- Reference: https://github.com/Jurredr/github-widgetbox -->
 
 <a href="https://github.com/umairazmat">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=umairazmat&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
+
 
 <!---------Header--------->
 
