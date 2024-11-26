@@ -123,7 +123,6 @@
 ## 🧑‍💻 Tech Stack 🛠️
 
 <!-- tech stack -->
-
 <!-- reference = https://github.com/tandpfun/skill-icons -->
 
 <br>
@@ -134,7 +133,6 @@
 </div>
 
 # 📈 All time Stats
-
 | Six Months                                                                                                                                                                                    | One Year                                                                                                                                                                                             | All Time                                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=six_months&theme=dark)](https://githubtrends.io)                                                       | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=one_year&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)                                    | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/umairazmat/langs?time_range=all_time&theme=synthwaves)](https://githubtrends.io)                                                       |
