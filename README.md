@@ -10,7 +10,6 @@
 
 <!---------Header--------->
 <!--
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Freelancer;Coding Maniac;Full-Stack Software-Engineer;WordPress Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#fece00&vCenter=true&size=40&pause=1000">
 </p>
@@ -76,7 +75,6 @@
 ## 🍵 Daily Quote
 
 <!-- reference = https://github.com/PiyushSuthar/github-readme-quotes -->
-
 <br>
 <div align="center">
   <a href="https://github.com/umairazmat">
@@ -85,7 +83,6 @@
 </div>
 
 ## 🏅 Awards &  Badges
-
 <div align="center">
    <a href="https://www.credly.com/earner/earned/badge/a3d5b37f-7b7f-4ed4-b94d-677b67002b62">
     <img height="200px" src="front-end-development-with-react.png">
