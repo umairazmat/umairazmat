@@ -60,8 +60,6 @@
 
 </div>
 
-<!-- GitHub Analytics -->
-
 <h2><i>⚙️ GitHub Analytics</i></h2>
     <p align="center">
         <a href="https://github.com/umairazmat">
@@ -79,6 +77,11 @@
 ## 🍵 Daily Quote
 
 <!-- reference = https://github.com/PiyushSuthar/github-readme-quotes -->
+
+<!-- Roadmap Analytics -->
+[![roadmap.sh](https://roadmap.sh/card/tall/6538ff22f73ca62d52bf96a7?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdevops)](https://roadmap.sh)
+
+<!-- GitHub Analytics -->
 <br>
 <div align="center">
   <a href="https://github.com/umairazmat">
