@@ -4,8 +4,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=umairazmat&theme=radical&hide_border=true&background=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=umairazmat&theme=radical&hide_border=true&background=0D1117&cache_seconds=86400)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400)](https://github.com/umairazmat)
 
 </div>
 
@@ -148,9 +150,11 @@ My work spans **frontend engineering**, **backend APIs**, and **AWS-based deploy
 
 <div align="center">
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umairazmat&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umairazmat&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400)
 
 **📈 Check out my contribution graph above!**
+
+*Note: If images don't load, check [my GitHub profile](https://github.com/umairazmat) directly for stats.*
 
 </div>
 
