@@ -2,48 +2,40 @@
 
 **Software Engineer | Frontend • Backend • Full-Stack**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairazmat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=umairazmat&theme=radical&hide_border=true&background=0D1117&cache_seconds=86400)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400)](https://github.com/umairazmat)
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=umairazmat&label=Profile%20views&color=0e75b6&style=flat" alt="umairazmat" />
+</p>
 
 ---
 
-I am a **Software Engineer** with hands-on experience building and shipping real-world web applications, focusing on **clean architecture, performance, and cloud-ready systems**.
+<p align="left">
+I am a <strong>Software Engineer</strong> with hands-on experience building and shipping real-world web applications, focusing on <strong>clean architecture, performance, and cloud-ready systems</strong>.
+</p>
 
-My work spans **frontend engineering**, **backend APIs**, and **AWS-based deployments**, with a strong emphasis on writing maintainable code and solving practical problems.
-
-**🚀 Open to remote opportunities** | **📚 Available for teaching/mentorship roles**
+- ✨ Building production-grade full-stack applications
+- 🌱 Currently learning advanced cloud architecture and system design
+- 🎓 Former Instructor at **Saylani Mass IT Training Program (SMIT)**
+- 👨‍🏫 Mentored **500+ students** in software development fundamentals
+- ✍️ I write technical blogs on [Medium](https://medium.com/@umairazmatt)
+- 💻 Visit my [Portfolio](https://umairazmat.com) for more details
+- 🚀 **Open to remote opportunities** | **Available for teaching/mentorship roles**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Latest Blogs
 
-<div align="center">
+### Current Learning
+- Deepening knowledge in **AWS cloud architecture** and **system design**
+- Exploring advanced **React.js patterns** and **state management** techniques
+- Improving skills in **containerization** with Docker and **CI/CD** pipelines
+- Strengthening **database optimization** and **API performance** strategies
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Latest Blog Posts
+> *Add your latest Medium articles here when available*
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</div>
+<!-- Example format:
+- <a href="https://medium.com/@umairazmatt/your-article">🔥 Your Article Title</a>
+-->
 
 ---
 
@@ -82,86 +74,134 @@ My work spans **frontend engineering**, **backend APIs**, and **AWS-based deploy
 
 ---
 
-## 📊 Key Metrics & Achievements
-
-- 🎓 **500+ students mentored** in software development fundamentals
-- 🏫 **Former Instructor** at Saylani Mass IT Training Program (SMIT)
-- 💻 **Production-ready applications** deployed on AWS
-- 📝 **Technical writing** on Medium
-- 🧩 **Problem-solving** practice on LeetCode
-- 🔄 **Active contributor** to open-source projects
-
----
-
-## 🧑‍🏫 Teaching & Mentorship
-
-**Former Instructor** at **Saylani Mass IT Training Program (SMIT)**
-
-- Mentored **500+ students** in software development fundamentals
-- Designed and delivered curriculum covering modern web development
-- Strong interest in knowledge sharing and structured learning
-- Experienced in both **one-on-one mentorship** and **classroom instruction**
-
-*Available for teaching, mentorship, and technical training opportunities*
-
----
-
-## 🚀 Featured Projects
-
-> *Add your top 2-3 projects here with descriptions, tech stack, and live links*
-
-<!-- Example format:
-### [Project Name](link)
-- **Tech Stack:** React, Node.js, MongoDB, AWS
-- **Description:** Brief description of what it does
-- **Live Demo:** [Link] | **Code:** [GitHub Link]
--->
-
----
-
-## 📌 Current Focus
-
-- 🏗️ Developing **production-grade full-stack projects**
-- ☁️ Strengthening **cloud deployment** and **system design** skills
-- 📚 Curating GitHub repositories to reflect **real engineering work**
-- 🔄 Continuous improvement through **deliberate practice**
-- 🌐 Exploring **remote-first** opportunities
-
-## 🤝 Let's Connect
-
-**I'm open to remote opportunities, collaborations, and teaching/mentorship roles.**
-
-### Primary Contact
-- 📧 **Email:** [umairazmatcareer@gmail.com](mailto:umairazmatcareer@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/umairazmat](https://www.linkedin.com/in/umairazmat/)
-- 💻 **GitHub:** [github.com/umairazmat](https://github.com/umairazmat)
-- 🌐 **Website:** [umairazmat.com](https://umairazmat.com)
-
-### Professional Profiles
-- ✍️ **Medium:** [medium.com/@umairazmatt](https://medium.com/@umairazmatt)
-- 💡 **LeetCode:** [leetcode.com/u/uamirazmat](https://leetcode.com/u/uamirazmat/)
-
-### Social Media
-- 🐦 **X (Twitter):** [x.com/umairazmatt](https://x.com/umairazmatt)
-- 📘 **Facebook:** [facebook.com/umairazmatt](https://www.facebook.com/umairazmatt)
-- 📷 **Instagram:** [instagram.com/umairazmatt](https://www.instagram.com/umairazmatt/)
-
----
+## 💻 Tech Stack
 
 <div align="center">
 
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=umairazmat&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**📈 Check out my contribution graph above!**
+</div>
 
-*Note: If images don't load, check [my GitHub profile](https://github.com/umairazmat) directly for stats.*
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/umairazmat">
+    <img src="https://github-profile-trophy.vercel.app/?username=umairazmat&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&theme=radical" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/umairazmat">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=umairazmat&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&text_color=ffffff&icon_color=ff6b9d" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/umairazmat">
+          <img align="center" src="https://github-readme-streak-stats.demolab.com/?user=umairazmat&theme=radical&hide_border=true&background=0D1117&fire=ff6b9d&ring=ff6b9d&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ff6b9d" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Top Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/umairazmat">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairazmat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b9d&text_color=ffffff" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Featured Project</strong></h3>
+      <p align="center">
+        <!-- Add your featured project here when ready -->
+        <!-- 
+        <a href="https://github.com/umairazmat/your-repo">
+          <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=umairazmat&repo=your-repo&theme=radical&show_owner=true&bg_color=0D1117&title_color=ff6b9d&text_color=ffffff" alt="Featured Project" />
+        </a>
+        -->
+        <em>Coming soon...</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairazmat&bg_color=0D1117&color=ffffff&line=ff6b9d&point=ffffff&area=false&hide_border=false" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <strong>I'm open to remote opportunities, collaborations, and teaching/mentorship roles.</strong>
+</p>
+
+<div align="center">
+  
+<a href="mailto:umairazmatcareer@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/umairazmat/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;" />
+</a>
+
+<a href="https://github.com/umairazmat" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;" />
+</a>
+
+<a href="https://umairazmat.com" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" style="margin: 5px;" />
+</a>
+
+<a href="https://medium.com/@umairazmatt" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="margin: 5px;" />
+</a>
+
+<a href="https://leetcode.com/u/uamirazmat/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin: 5px;" />
+</a>
+
+<a href="https://x.com/umairazmatt" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" style="margin: 5px;" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-
+  
 > **Focused execution.**  
 > **Practical engineering.**  
 > **Continuous growth.**
